@@ -28,3 +28,6 @@ They come installed together but do completely different jobs.
   - How does Spring Security integrate with JWT?                                                                        
   - How does the frontend auth (NextAuth.js) talk to the backend auth (Spring Security + JWT)?                          
   - Why JPA over raw SQL?
+
+# How to install extra framework needed for the project 
+npm install axios chart.js react-chartjs-2 next-auth
