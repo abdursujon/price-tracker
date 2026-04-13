@@ -1,0 +1,2 @@
+# Backend package creation
+mkdir controller service repository model dto exceptions config security scraper scheduler
